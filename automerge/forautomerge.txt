@@ -1,0 +1,3 @@
+to auto merge from git
+
+file need to not conflict with others
